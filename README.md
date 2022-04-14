@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on argument mining, natural language processing projects etc.
 - 🌱 I’m currently learning machine learning, natural language processing, etc.
-- 👯 I’m looking to apply for American graduate School.
-- 📫 How to reach me: windszzlang@gmail.com & windszzz@qq.com
+- 📫 How to reach me: langcao2@illinois.edu & windszzlang@gmail.com
 - 😄 Wish: Blessings to myself..
 - ⚡ Fun fact: On the one hand there are gaps, on the other hand the luck is not very good.
 
