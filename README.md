@@ -2,7 +2,7 @@
 
 - ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by Danica Xiao and Jimeng Sun.
 - 🏫 I am a first-year MCS student now in Univerisity of Illinois at Urbana-Champaign.
-- 🔭 I’m currently working on NLP in legal texts, and other projects related to NLP.
+- 🔭 I’m currently working on NLP in legal text, and some other projects related to NLP.
 - 🌱 I’m focusing on natural language processing, especially information extraction.
 - 📫 How to reach me: langcao2@illinois.edu & windszzlang@gmail.com
 - 😄 Wish: Blessings to myself..
