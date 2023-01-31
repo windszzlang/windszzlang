@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on argument mining, natural language processing projects etc.
-- 🌱 I’m currently learning machine learning, natural language processing, etc.
+- ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by Danica Xiao and Jimeng Sun.
+- 🏫 I am a first-year MCS student now in Univerisity of Illinois at Urbana-Champaign.
+- 🔭 I’m currently working on NLP in legal texts, and other projects related to NLP.
+- 🌱 I’m focusing on natural language processing, especially information extraction.
 - 📫 How to reach me: langcao2@illinois.edu & windszzlang@gmail.com
 - 😄 Wish: Blessings to myself..
 - ⚡ Fun fact: On the one hand there are gaps, on the other hand the luck is not very good.
