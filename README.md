@@ -8,6 +8,8 @@
 - 😄 Wish: Blessings to myself..
 - ⚡ Fun fact: On the one hand there are gaps, on the other hand the luck is not very good.
 
+[![Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=windszzlang)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **windsOvO/windsOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
