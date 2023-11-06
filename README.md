@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am a passionate and self-motivated thinker, researcher, and entrepreneur in the field of AI.
+- 🌱 I am a passionate and self-motivated thinker, researcher, and entrepreneur in the field of Arificial Intelligence.
 - ⚡ I am fascinated by everything novel, promising, and anything that leads to the ultimate AI that can benefit humanity.
 - ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by Danica Xiao and Jimeng Sun.
 - 🏫 I am a second-year master of science in Computer Science student now in Univerisity of Illinois at Urbana-Champaign.
