@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I am a passionate and self-motivated thinker, researcher, and entrepreneur in the field of AI.
+- ⚡ I am fascinated by everything novel, promising, and anything that leads to the ultimate AI that can benefit humanity.
 - ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by Danica Xiao and Jimeng Sun.
-- 🌱 I am self-motivated and enthusiastic researcher and entrepreneur.
-- 🏫 I am an MSCS student now in Univerisity of Illinois at Urbana-Champaign.
-- 🔭 I am currently working on NLP / LLM in healthcare, and some other projects related to NLP.
+- 🏫 I am a second-year master of science in Computer Science student now in Univerisity of Illinois at Urbana-Champaign.
 - 🔭 I am the co-founder and AI tech leader of LegalNOW, and our latest product of AI Lawyer has just been launched [Click to try it](https://ai.legalnow.xyz/)!
-- 📫 How to reach me: langcao2@illinois.edu & windszzlang@gmail.com
+- 🔭 My research interests lie in Natural Language Processing, particularly in Large Language Models, and NLP application in Healthcare.
+- 📫 How to reach me: langcao2@illinois.edu & langcao@legal-dao.com
 - 😄 Wish: Blessings to myself..
-- ⚡ Fun fact: On the one hand there are gaps, on the other hand the luck is not very good.
 
 [![Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=windszzlang)](https://github.com/anuraghazra/github-readme-stats)
 
