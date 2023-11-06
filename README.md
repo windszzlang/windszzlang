@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by Danica Xiao and Jimeng Sun.
-- 🏫 I am a MSCS student now in Univerisity of Illinois at Urbana-Champaign.
-- 🔭 I’m currently working on NLP in legal text, and some other projects related to NLP.
+- 🏫 I am an MSCS student now in Univerisity of Illinois at Urbana-Champaign.
+- 🔭 I’m currently working on NLP / LLM in healthcare, and some other projects related to NLP.
+- 🔭 I a cofounder and AI tech learder of LegalNOW, our latest product of AI Laywer is launching at [](https://ai.legalnow.xyz/)!
 - 🌱 I’m focusing on natural language processing, especially information extraction.
 - 📫 How to reach me: langcao2@illinois.edu & windszzlang@gmail.com
 - 😄 Wish: Blessings to myself..
