@@ -9,7 +9,7 @@
 - 📫 How to reach me: langcao2@illinois.edu & langcao@legal-dao.com
 - 😄 Wish: Blessings to myself..
 
-[![Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=windszzlang&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=windszzlang&theme=react&hide_rank=true)](https://github.com/windszzlang)
 
 <!--
 **windsOvO/windsOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
