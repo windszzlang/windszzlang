@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I am a passionate and self-motivated thinker, practitioner, researcher, and entrepreneur in the field of Arificial Intelligence.
-- ⚡ I am fascinated by everything novel, promising, and anything that leads to the ultimate AI that can benefit humanity.
-- ⚙️ Currently, I am a research assistant in Sunlab☀️, advised by [Prof. Jimeng Sun](https://www.sunlab.org/).
-- 🏫 I am a second-year master of science in Computer Science student now in Univerisity of Illinois at Urbana-Champaign.
-- 🔭 I am the co-founder and AI tech leader of [LegalNOW](https://www.legal-dao.org), and our latest product of AI Lawyer has just been launched [Click to try it](https://ai.legalnow.xyz/)!
-- 🔭 My research interests lie in Natural Language Processing, particularly in Large Language Models, and NLP application in Healthcare.
+- 🌱 I am a passionate and self-motivated thinker, practitioner, researcher, and entrepreneur in the field of Artificial Intelligence.
+- ⚡ I am fascinated by everything novel, promising, and anything that can contribute to the development of advanced AI systems that benefit humanity.
+- ⚙️ I work as a research assistant at Sunlab☀️, under the guidance of [Prof. Jimeng Sun](https://www.sunlab.org/).
+- 🏫 I am currently a second-year master of science student majoring in Computer Science at the University of Illinois at Urbana-Champaign.
+- 🪩 I serve as the co-founder and AI tech leader of [LegalNow](https://www.legal-dao.org). Our latest product, LegalNow AI Lawyer, has recently been launched. [Click to try it](https://ai.legalnow.xyz/)!
+- 🔭 My research interests focus on Natural Language Processing, particularly in Large Language Models, and their applications in Healthcare and Legal domains.
 - 📫 How to reach me: langcao2@illinois.edu & langcao@legal-dao.com
 - 😄 Wish: Blessings to myself..
 
