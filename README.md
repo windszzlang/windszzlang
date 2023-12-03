@@ -6,7 +6,7 @@
 - 🏫 I am currently a second-year master of science student majoring in Computer Science at the University of Illinois at Urbana-Champaign.
 - 🪩 I serve as the co-founder and AI tech leader of [LegalNow](https://www.legal-dao.org). Our first product, LegalNow AI Lawyer, has recently been launched. [Click to try it](https://ai.legalnow.xyz/)!
 - 🔭 My research interests focus on Natural Language Processing, particularly in Large Language Models, and their applications in Healthcare and Legal domains.
-- 📫 How to reach me: langcao2@illinois.edu & langcao@legal-dao.com
+- 📫 How to reach me: langcao2@illinois.edu
 - 😄 Wish: Blessings to myself..
 
 [![Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=windszzlang&theme=react&hide_rank=true)](https://github.com/windszzlang)
