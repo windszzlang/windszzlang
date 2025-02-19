@@ -2,8 +2,7 @@
 
 - 🌱 I am a passionate and self-motivated thinker, practitioner, researcher, and entrepreneur in the field of Artificial Intelligence.
 - ⚡ I am fascinated by everything novel, promising, and anything that can contribute to the development of advanced AI systems that benefit humanity.
-- ⚙️ I work as a research assistant at Sunlab☀️, under the guidance of [Prof. Jimeng Sun](https://www.sunlab.org/).
-- 🏫 I am currently a second-year master of science student majoring in Computer Science at the University of Illinois at Urbana-Champaign.
+- 🏫 I am currently a PhD student majoring in Computer Science at the University of Illinois at Urbana-Champaign.
 - 🔭 My research interests focus on Natural Language Processing, particularly in Large Language Models, and their applications in Healthcare and Legal domains.
 - 📫 How to reach me: langcao2@illinois.edu
 - 😄 Wish: Blessings to myself..
